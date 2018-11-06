@@ -19,3 +19,5 @@ permalink: pretty
 markdown: kramdown
 kramdown:
   input: GFM
+
+theme: jekyll-theme-cayman
