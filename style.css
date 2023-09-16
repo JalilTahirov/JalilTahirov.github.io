@@ -31,6 +31,9 @@ body {
     color: #0F0;
   }
   
+  .skills-section {
+    margin-bottom: 20px;
+  }
   .card {
     margin-bottom: 20px;
     padding: 10px;
@@ -68,3 +71,31 @@ body {
     text-align: center;
   }
   
+  .skill {
+    width: 200px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #333;
+    border: 1px solid #0F0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .skill h3 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0F0;
+  }
+  
+  .skill p {
+    font-size: 16px;
+    color: white;
+  }
