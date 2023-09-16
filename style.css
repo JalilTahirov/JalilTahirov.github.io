@@ -30,3 +30,21 @@ body {
   a {
     color: #0F0;
   }
+  
+  .card {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #333;
+    border: 1px solid #0F0;
+  }
+  
+  .card-header {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .card-body {
+    font-size: 16px;
+    color: white;
+  }
