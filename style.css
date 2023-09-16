@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #000;
     font-family: monospace;
     color: white;
   }
@@ -36,12 +36,16 @@ body {
     padding: 10px;
     background-color: #333;
     border: 1px solid #0F0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
   
   .card-header {
     font-size: 20px;
     color: white;
     text-align: center;
+    padding: 10px 0;
+    background-color: #0F0;
   }
   
   .card-body {
