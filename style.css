@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: white;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  li {
+    font-size: 16px;
+  }
+  
+  a {
+    color: #0F0;
+  }
